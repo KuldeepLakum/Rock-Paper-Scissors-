@@ -1,0 +1,72 @@
+# Rock, Paper, Scissors 🎮
+[Rock, Paper, Scissors]()
+A fun and interactive **Rock, Paper, Scissors** game built using **HTML, CSS, and JavaScript**. Play against the computer and test your luck!
+
+## 🚀 How to Play
+1. Click on **Rock 🪨, Paper 📄, or Scissors ✂️** to make your choice.
+2. The computer will randomly select its choice.
+3. The winner is determined based on these rules:
+   - **Rock beats Scissors** (Rock crushes Scissors) ✅
+   - **Scissors beats Paper** (Scissors cuts Paper) ✅
+   - **Paper beats Rock** (Paper covers Rock) ✅
+   - If both players choose the same option, it's a **Draw** 🤝
+
+## 🏆 Game Outcomes
+
+![Screenshot 2025-01-29 150836](https://github.com/user-attachments/assets/3aefd09d-ba59-4c0a-a119-86e0fe27cd8a)
+
+### 🎉 **Win Scenario**
+- If your choice beats the computer’s, you win!
+- Your score increases, and a **green message** appears.
+
+**Example:**
+✅ *You Win! Rock crushes Scissors!*
+
+![Win Screenshot](![Screenshot 2025-01-29 150853](https://github.com/user-attachments/assets/768464ad-f191-4acc-aa6c-a3a805b04fe9)
+)
+
+---
+
+### ❌ **Loss Scenario**
+- If the computer’s choice beats yours, you lose.
+- The computer's score increases, and a **black message** appears.
+
+**Example:**
+❌ *You Lose! Scissors cuts Paper!*
+
+![Loss Screenshot](![Screenshot 2025-01-29 150908](https://github.com/user-attachments/assets/66d00039-e8f8-48ec-9e43-c07f55a73846)
+)
+
+---
+
+### 🔄 **Draw Scenario**
+- If both you and the computer select the same option, it’s a draw.
+- No score changes, and an **orange message** appears.
+
+**Example:**
+🤝 *It’s a Draw! Try again!*
+
+![Draw Screenshot](![Screenshot 2025-01-29 150923](https://github.com/user-attachments/assets/21a500e8-708f-4588-a644-5fde4021146b)
+)
+
+---
+
+## 🎨 Features
+- **Live Score Tracking** 🏅
+- **Color-coded Results** (Green = Win, Black = Loss, Orange = Draw)
+- **Randomized Computer Choices** 🤖
+
+## 🛠 Technologies Used
+- **HTML** - Structure
+- **CSS** - Styling
+- **JavaScript** - Game Logic
+
+## 📸 Screenshots  
+Feel free to add more screenshots to showcase the game interface!  
+
+---
+
+## 📂 Installation
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/KuldeepLakum/rock-paper-scissors.git
