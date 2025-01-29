@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors 🎮
-[Rock, Paper, Scissors]()
+[Rock, Paper, Scissors](https://kuldeeplakum.github.io/Rock-Paper-Scissors-/)
 A fun and interactive **Rock, Paper, Scissors** game built using **HTML, CSS, and JavaScript**. Play against the computer and test your luck!
 
 ## 🚀 How to Play
