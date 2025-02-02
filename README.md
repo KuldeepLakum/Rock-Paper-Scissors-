@@ -28,7 +28,7 @@ A fun and interactive **Rock, Paper, Scissors** game built using **HTML, CSS, an
 
 ## 📸 Screenshots  
 
-[✅ *You Win! Rock crushes Scissors!*](https://github.com/user-attachments/assets/768464ad-f191-4acc-aa6c-a3a805b04fe9)
+![✅ *You Win! Rock crushes Scissors!*](https://github.com/user-attachments/assets/2954cd85-6f35-4d96-9d57-085528f4dd10)
 
 ---
 
