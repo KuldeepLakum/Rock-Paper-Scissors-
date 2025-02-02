@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -10,19 +10,20 @@
     text-align: center;
 }
 
-html, body{
+html, body {
     height: 100vh;
     width: 100%;
     background-color: #fff;
 }
 
-h1{
+h1 {
     background-color: #081b31;
     height: 5rem;
     line-height: 5rem;
     color: #fff;
 }
-.choices{
+
+.choices {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,11 +31,12 @@ h1{
     cursor: pointer;
     margin-top: 5rem;
 }
-.choice:hover{
+
+.choice:hover {
     background-color: #081b31;
 }
 
-.choice{
+.choice {
     height: 165px;
     width: 165px;
     border-radius: 50%;
@@ -43,7 +45,7 @@ h1{
     align-items: center;
 }
 
-img{
+img {
     height: 150px;
     width: 150px;
     object-fit: cover;
@@ -51,7 +53,7 @@ img{
     background-position: center;
 }
 
-.score-board{
+.score-board {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,18 +62,131 @@ img{
     font-size: 2rem;
 }
 
-#user-score, #comp-score{
+#user-score, #comp-score {
     font-size: 4rem;
 }
-.msg-container{
+
+.msg-container {
     margin-top: 5rem;
 }
 
-#msg{
+#msg {
     display: inline;
     font-size: 2rem;
     background-color: #081b31;
     color: #fff;
     padding: 1rem;
     border-radius: 1rem;
+}
+
+/* Media Queries for Responsive Design */
+
+/* Mobile Devices (up to 767px) */
+@media (max-width: 767px) {
+    .choices {
+        flex-direction: column;
+        gap: 2rem;
+        margin-top: 2rem;
+    }
+
+    .choice {
+        height: 120px;
+        width: 120px;
+    }
+
+    img {
+        height: 110px;
+        width: 110px;
+    }
+
+    .score-board {
+        flex-direction: column;
+        gap: 1rem;
+        margin-top: 2rem;
+    }
+
+    #user-score, #comp-score {
+        font-size: 3rem;
+    }
+
+    .msg-container {
+        margin-top: 3rem;
+    }
+
+    #msg {
+        font-size: 1.5rem;
+        padding: 0.75rem;
+    }
+}
+
+/* Tablet Devices (768px to 1023px) */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .choices {
+        gap: 3rem;
+        margin-top: 3rem;
+    }
+
+    .choice {
+        height: 140px;
+        width: 140px;
+    }
+
+    img {
+        height: 130px;
+        width: 130px;
+    }
+
+    .score-board {
+        gap: 3rem;
+        margin-top: 2.5rem;
+    }
+
+    #user-score, #comp-score {
+        font-size: 3.5rem;
+    }
+
+    .msg-container {
+        margin-top: 4rem;
+    }
+
+    #msg {
+        font-size: 1.75rem;
+        padding: 0.875rem;
+    }
+}
+
+/* Desktop Devices (1024px and above) */
+@media (min-width: 1024px) {
+    .choices {
+        gap: 5rem;
+        margin-top: 5rem;
+    }
+
+    .choice {
+        height: 165px;
+        width: 165px;
+    }
+
+    img {
+        height: 150px;
+        width: 150px;
+    }
+
+    .score-board {
+        gap: 5rem;
+        margin-top: 3rem;
+    }
+
+    #user-score, #comp-score {
+        font-size: 4rem;
+    }
+
+    .msg-container {
+        margin-top: 5rem;
+    }
+
+    #msg {
+        font-size: 2rem;
+        padding: 1rem;
+    }
 }
