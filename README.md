@@ -14,7 +14,9 @@ A fun and interactive **Rock, Paper, Scissors** game built using **HTML, CSS, an
 
 ## 🏆 Game Outcomes
 
-![Screenshot 2025-01-29 150836](https://github.com/user-attachments/assets/3aefd09d-ba59-4c0a-a119-86e0fe27cd8a)
+## 📸 Screenshots  
+
+(https://github.com/user-attachments/assets/3aefd09d-ba59-4c0a-a119-86e0fe27cd8a)
 
 ### 🎉 **Win Scenario**
 
@@ -77,7 +79,7 @@ A fun and interactive **Rock, Paper, Scissors** game built using **HTML, CSS, an
 
 - **JavaScript** - Game Logic
 
-## 📸 Screenshots  
+
 
 Feel free to add more screenshots to showcase the game interface!  
 
