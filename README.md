@@ -30,8 +30,7 @@ A fun and interactive **Rock, Paper, Scissors** game built using **HTML, CSS, an
 
 ✅ *You Win! Rock crushes Scissors!*
 
-![Win Screenshot](![Screenshot 2025-01-29 150853](https://github.com/user-attachments/assets/768464ad-f191-4acc-aa6c-a3a805b04fe9)
-)
+(https://github.com/user-attachments/assets/768464ad-f191-4acc-aa6c-a3a805b04fe9)
 
 ---
 
@@ -45,8 +44,8 @@ A fun and interactive **Rock, Paper, Scissors** game built using **HTML, CSS, an
 
 ❌ *You Lose! Scissors cuts Paper!*
 
-![Loss Screenshot](![Screenshot 2025-01-29 150908](https://github.com/user-attachments/assets/66d00039-e8f8-48ec-9e43-c07f55a73846)
-)
+(https://github.com/user-attachments/assets/66d00039-e8f8-48ec-9e43-c07f55a73846)
+
 
 ---
 
@@ -60,8 +59,8 @@ A fun and interactive **Rock, Paper, Scissors** game built using **HTML, CSS, an
 
 🤝 *It’s a Draw! Try again!*
 
-![Draw Screenshot](![Screenshot 2025-01-29 150923](https://github.com/user-attachments/assets/21a500e8-708f-4588-a644-5fde4021146b)
-)
+(https://github.com/user-attachments/assets/21a500e8-708f-4588-a644-5fde4021146b)
+
 
 ---
 
