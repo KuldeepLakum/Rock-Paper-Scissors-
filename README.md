@@ -14,7 +14,7 @@ A fun and interactive **Rock, Paper, Scissors** game built using **HTML, CSS, an
 
 ## 🏆 Game Outcomes
 
-## 📸 Screenshots  
+
 
 (https://github.com/user-attachments/assets/3aefd09d-ba59-4c0a-a119-86e0fe27cd8a)
 
@@ -25,6 +25,8 @@ A fun and interactive **Rock, Paper, Scissors** game built using **HTML, CSS, an
 - Your score increases, and a **green message** appears.
 
 **Example:**
+
+## 📸 Screenshots  
 
 ✅ *You Win! Rock crushes Scissors!*
 
